@@ -1,6 +1,10 @@
 # Big_Data_Case
 Final Project code
 
+Speech Language Recognition
+
+Two languages (English and Chinese) with the Preprocessed Melp data
+
 ## There are 5.py documents in this project:
 
 model.py -----> Classification model
